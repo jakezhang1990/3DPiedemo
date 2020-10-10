@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">3DPiedemo</string>
+
+    <dimen name="dimen1">13sp</dimen>
+    <dimen name="dimen2">200dp</dimen>
+</resources>
